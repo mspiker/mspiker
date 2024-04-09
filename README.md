@@ -14,8 +14,17 @@ I am Mark Spiker, a seasoned manager leading an analytics and development team a
 💬 Feel free to reach out to discuss all things analytics, development, or healthcare tech!
 
 ### Projects I have led
+The following are projects that I have substantially contributed to. 
 
-* [Metric Acqusition Tool](https://github.com/mspiker/MetricAcquisitionTool.git) 
+* [Metric Acqusition Tool](https://github.com/mspiker/MetricAcquisitionTool.git) App to acquire collect and aggregate metrics to track an organization's performance. Data is entered manually or acquired from Power BI automatically on a schedule.
+* Data Compass
+* AxCess
+* Silent Poker
+
+### Learning Skills
+Some sample code to learn new skills for others to benefit from.
+
+* BlazorPrototype - This repo demonstrates how to add Microsoft Identity framework to a Blazor Server App in Hybrid mode and how to create an API to manage Identity.  
 
 <!--
 **mspiker/mspiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
