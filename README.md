@@ -22,7 +22,7 @@ The following are projects that I have substantially contributed to.
 * Silent Poker
 
 ### Learning Skills
-Some sample code to learn new skills for others to benefit from.
+Some sample code to learn new skills for others to benefit from. Switch over to @CoffeeChatCoding for more samples.  
 
 * BlazorPrototype - This repo demonstrates how to add Microsoft Identity framework to a Blazor Server App in Hybrid mode and how to create an API to manage Identity.  
 
