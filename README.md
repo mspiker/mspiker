@@ -1,17 +1,15 @@
 ### 👋 Hi there  
-I am Mark Spiker, a seasoned manager leading an analytics and development team at a mid-sized healthcare facility. My passion lies in leveraging technology, particularly in the realm of healthcare, to drive data-driven insights and solutions.
+I am Mark Spiker, a dynamic healthcare IT leader with a proven track record in the healthcare industry, excelling in Agile Project Management and complex problem-solving. Spearheaded innovative data services and development, leveraging skills in Software Development, Analytics, and staff development to drive significant operational enhancements. Renowned for transforming challenges into scalable solutions, fostering team growth, and enhancing system efficiency.
 
 🚀 In my career, I've honed my skills in software development, specializing in C#. I thrive on architecting robust applications and systems that enhance operational efficiency and improve patient care outcomes.
 
-🔭 On GitHub, you'll find a collection of projects showcasing my expertise:
+🔭 On GitHub, you'll find a collection of personal projects showcasing my expertise:
 
 * Healthcare Analytics: Exploring patient data analysis using Microsoft Fabric.
 * C# Development: Building scalable applications and APIs.
 * Data Visualization: Crafting intuitive dashboards for healthcare insights using Power BI.
 
-🌱 I'm always exploring new technologies and methodologies to elevate our capabilities in the healthcare tech space. Let's connect and collaborate on innovative solutions!
-
-💬 Feel free to reach out to discuss all things analytics, development, or healthcare tech!
+🌱 I'm always exploring new technologies and methodologies to elevate our capabilities in the healthcare tech space. 
 
 ### Projects I have led
 The following are projects that I have substantially contributed to. 
@@ -19,7 +17,7 @@ The following are projects that I have substantially contributed to.
 * [Metric Acqusition Tool](https://github.com/mspiker/MetricAcquisitionTool.git) App to acquire collect and aggregate metrics to track an organization's performance. Data is entered manually or acquired from Power BI automatically on a schedule.
 * Data Compass
 * AxCess
-* Silent Poker
+* Silent Poker, a tool to help Agile teams pointt stories in preparation for Sprint planning.
 
 ### Learning Skills
 Some sample code to learn new skills for others to benefit from. Switch over to [Coffee Chat Coding](https://github.com/CoffeeChatCoding) for more samples.  
